@@ -31,7 +31,7 @@ module.exports = function(config) {
       //{ pattern: 'global.js', watched: false },
 
       // Then load common
-      //'common.js',
+      'common.js',
 
       // Load project files that are test ready
       'test.js'
